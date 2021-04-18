@@ -1,0 +1,17 @@
+{
+  "name": "kyoml-plugin-extend",
+  "version": "0.0.1",
+  "description": "KyoML plugin for extending blocks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Warn: no test implemented\" && exit 0"
+  },
+  "keywords": [
+    "kyoml",
+    "plugin",
+    "extend",
+    "object"
+  ],
+  "author": "Patrick",
+  "license": "MIT"
+}
